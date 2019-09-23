@@ -1,0 +1,366 @@
+Author,Book_average_rating,units sold,genre,Publisher ,sale price,sales rank
+"Unknown, Seamus Heaney",5,7000,genre fiction,HarperCollins Publishers,4.88,1
+"Frank Miller, David Mazzucchelli, Richmond Lewis, Dennis O'Neil",5,7000,genre fiction,HarperCollins Publishers,1.99,2
+Harper Lee,5,6999,genre fiction,"Amazon Digital Services,  Inc.",8.69,3
+David Sedaris,5,6998,fiction,Hachette Book Group,7.5,3
+Laini Taylor,4.99,6990,genre fiction,Penguin Group (USA) LLC,7.99,4
+Victoria Aveyard,5,6990,genre fiction,"Amazon Digital Services,  Inc.",4.99,5
+Charles Duhigg,5,6988,genre fiction,HarperCollins Publishers,6.99,6
+John Berendt,5,6980,nonfiction,Hachette Book Group,6.89,8
+Charlaine Harris,4.13,6999,genre fiction,"Amazon Digital Services,  Inc.",0.99,29
+"Thomas Hardy, Tim Dolin, Margaret R. Higonnet",4.32,6999,nonfiction,Hachette Book Group,3.99,29
+"Gustave Flaubert, Margaret Mauldon, Malcolm Bowie, Mark Overstall",4.98,6999,genre fiction,"Amazon Digital Services,  Inc.",3.99,30
+"Norton Juster, Jules Feiffer",4.22,6999,genre fiction,"Amazon Digital Services,  Inc.",1.99,31
+Brandon Sanderson,4.64,6999,genre fiction,"Amazon Digital Services,  Inc.",0.99,32
+Charlaine Harris,4.78,6999,genre fiction,HarperCollins Publishers,5.99,32
+Ned Vizzini,4.32,6999,nonfiction,HarperCollins Publishers,0.99,34
+Brandon Sanderson,4.35,6999,genre fiction,Random House LLC,8.99,35
+Libba Bray,4.99,6880,genre fiction,Penguin Group (USA) LLC,2.99,57
+Jonathan Safran Foer,4.6,6880,genre fiction,"Amazon Digital Services,  Inc.",0.99,58
+Robert Ludlum,4.9,6880,genre fiction,Penguin Group (USA) LLC,10.91,59
+Tammara Webber,4.11,6880,genre fiction,"Amazon Digital Services,  Inc.",0.99,59
+"Charles Dickens, Jeremy Tambling",4.8,6880,genre fiction,Hachette Book Group,11.39,60
+"Sherman Alexie, Ellen Forney",4.11,6880,genre fiction,Random House LLC,6.49,61
+"Mikhail Bulgakov, Katherine Tiernan O'Connor, Diana Burgin, Ellendea Proffer",4.32,6880,genre fiction,"Amazon Digital Services,  Inc.",3.99,62
+Ursula K. Le Guin,4.8,6880,genre fiction,"Amazon Digital Services,  Inc.",3,63
+"Kate DiCamillo, Chris Sheban",4.7,6880,genre fiction,"Amazon Digital Services,  Inc.",0.99,65
+John Knowles,4.23,6880,genre fiction,"Amazon Digital Services,  Inc.",3.89,66
+John Grisham,4.92,6880,genre fiction,"Amazon Digital Services,  Inc.",7.99,67
+"Miguel de Cervantes Saavedra, Roberto González Echevarría, John Rutherford",4,6880,genre fiction,Hachette Book Group,8.99,68
+Robin Hobb,4.14,6880,genre fiction,"Amazon Digital Services,  Inc.",1.99,70
+Douglas Adams,4.22,6880,genre fiction,Penguin Group (USA) LLC,7.99,71
+Lauren Kate,4,6880,genre fiction,"Amazon Digital Services,  Inc.",3.99,72
+Beatrix Potter,4.17,6880,genre fiction,Penguin Group (USA) LLC,6.99,73
+"C.S. Lewis, Pauline Baynes",4.95,6880,genre fiction,Hachette Book Group,3.79,75
+Brandon Sanderson,4.46,6880,nonfiction,"Amazon Digital Services,  Inc.",4.21,75
+Susanna Kaysen,4,6880,genre fiction,Hachette Book Group,1.99,76
+Chelsea Handler,4.85,6880,genre fiction,Hachette Book Group,3.99,76
+"Richard Bach, Russell Munson",4.8,6700,genre fiction,"Amazon Digital Services,  Inc.",4.99,77
+Cassandra Clare,4.48,6777,genre fiction,"Amazon Digital Services,  Inc.",4.99,78
+"Robert Munsch, Sheila McGraw",4.34,6666,genre fiction,"Amazon Digital Services,  Inc.",0.99,79
+Stephen King,4.64,6678,genre fiction,HarperCollins Publishers,4.54,80
+Daniel James Brown,4.32,6666,genre fiction,Hachette Book Group,6.49,80
+"J.R.R. Tolkien, Christopher Tolkien, Ted Nasmith",4.87,6900,genre fiction,Random House LLC,4.99,81
+Stephen King,4.23,6547,nonfiction,HarperCollins Publishers,1.99,82
+Kate Morton,4.12,6844,genre fiction,"Amazon Digital Services,  Inc.",3.99,85
+"Franz Kafka, Edwin Muir, Willa Muir, Max Brod",4,6844,genre fiction,"Amazon Digital Services,  Inc.",0.99,86
+Sarah Dessen,4.03,6434,genre fiction,HarperCollins Publishers,1.99,86
+Jodi Picoult,4.45,6885,genre fiction,"Amazon Digital Services,  Inc.",0.99,87
+Piper Kerman,4,6343,fiction,"Amazon Digital Services,  Inc.",1.99,87
+"Arthur Conan Doyle, Anne Perry",4.09,6439,genre fiction,Macmillan,1.99,88
+Daniel Kahneman,4.08,6399,genre fiction,"Amazon Digital Services,  Inc.",0.99,89
+Marion Zimmer Bradley,4.12,6389,genre fiction,"Amazon Digital Services,  Inc.",0.99,89
+Judy Blume,4.01,6399,genre fiction,"Amazon Digital Services,  Inc.",0.99,92
+Nicholas Sparks,4.09,6300,genre fiction,"Amazon Digital Services,  Inc.",4.99,92
+Stephen King,4.1,6299,genre fiction,Macmillan,1.99,93
+Charlaine Harris,4.05,6287,genre fiction,Random House LLC,6.49,95
+Chris Bohjalian,4.7,6260,genre fiction,Random House LLC,6.49,96
+Chris Van Allsburg,4.29,6257,nonfiction,"Amazon Digital Services,  Inc.",0.99,97
+"Jon Scieszka, Lane Smith",4.29,6252,genre fiction,"Amazon Digital Services,  Inc.",0.99,98
+Tom Clancy,4.11,6245,genre fiction,"Amazon Digital Services,  Inc.",5.99,99
+"Paulo Coelho, Margaret Jull Costa",4.77,6241,genre fiction,Penguin Group (USA) LLC,6.83,99
+"Sheryl Sandberg, Nell Scovell",4,6240,genre fiction,"Amazon Digital Services,  Inc.",0.99,101
+Charlaine Harris,4.01,6199,genre fiction,Penguin Group (USA) LLC,5.12,102
+Tahereh Mafi,4.01,6188,fiction,"Amazon Digital Services,  Inc.",2.24,104
+Robert A. Heinlein,4,6178,genre fiction,Hachette Book Group,7.5,105
+Sophie Kinsella,4,6173,genre fiction,"Amazon Digital Services,  Inc.",0.99,106
+"Jostein Gaarder, Paulette Møller",4.45,6170,genre fiction,Penguin Group (USA) LLC,10.65,108
+Mark Cotta Vaz,4.3,6166,genre fiction,Penguin Group (USA) LLC,7.99,108
+Ray Bradbury,4.12,6157,genre fiction,"Amazon Digital Services,  Inc.",1.99,111
+Jennifer Egan,4.24,6140,genre fiction,Macmillan,4.99,112
+"Johanna Spyri, Angelo  Rinaldi, Beverly Cleary",4.21,6139,genre fiction,Penguin Group (USA) LLC,3.99,113
+Michael Crichton,4.11,6138,genre fiction,"Amazon Digital Services,  Inc.",1.99,114
+C.S. Lewis,4.02,6130,genre fiction,"Amazon Digital Services,  Inc.",6.5,116
+Ken Follett,4.23,6128,genre fiction,Random House LLC,0.99,117
+"P.C. Cast, Kristin Cast",4.2,6125,fiction,"Amazon Digital Services,  Inc.",8.48,117
+Colleen Hoover,4.29,6125,genre fiction,"Amazon Digital Services,  Inc.",0.99,118
+Alex Flinn,4.1,6125,genre fiction,"Amazon Digital Services,  Inc.",0.99,119
+"Geoffrey Chaucer, Nevill Coghill",4,6120,genre fiction,"Amazon Digital Services,  Inc.",0.99,120
+Emily Giffin,4.2,6118,nonfiction,Macmillan,6.49,120
+Christopher Paolini,4.08,6115,nonfiction,Random House LLC,11.99,121
+"Haruki Murakami, Jay Rubin, Philip Gabriel",4,6113,genre fiction,"Amazon Digital Services,  Inc.",2.99,122
+Harriet Beecher Stowe,4,6113,fiction,HarperCollins Publishers,1.99,122
+"Gaston Leroux, Alexander Teixeira de Mattos",4.97,6009,genre fiction,"Amazon Digital Services,  Inc.",3.99,123
+Charlaine Harris,4.02,6008,genre fiction,Simon and Schuster Digital Sales Inc,7.5,126
+"José Saramago, Giovanni Pontiero",4.08,6007,genre fiction,"Amazon Digital Services,  Inc.",3.99,127
+"Virginia Woolf, Maureen Howard",3.78,5450,genre fiction,"Amazon Digital Services,  Inc.",1.99,182
+"Jonas Jonasson, Rod Bradbury",4,5440,genre fiction,Macmillan,8.89,183
+Stephen King,4,5435,genre fiction,"Amazon Digital Services,  Inc.",0.99,185
+John Irving,4,5430,genre fiction,"Amazon Digital Services,  Inc.",1.99,186
+"Richard Bachman, Stephen King",4,5425,genre fiction,"Amazon Digital Services,  Inc.",2.99,189
+"Jules Verne, Michael Glencross, Brian W. Aldiss",4,5420,genre fiction,Penguin Group (USA) LLC,7.99,189
+Sharon Creech,4,5415,nonfiction,"Amazon Digital Services,  Inc.",0.99,190
+"Paulo Coelho, Margaret Jull Costa",4,5410,genre fiction,"Amazon Digital Services,  Inc.",0.99,192
+J.D. Salinger,4,5409,genre fiction,"Amazon Digital Services,  Inc.",3.99,192
+Julie Powell,3.67,5495,nonfiction,Random House LLC,2.99,193
+Neal Shusterman,4,5399,genre fiction,Macmillan,0.99,194
+Diana Gabaldon,4,5388,nonfiction,"Amazon Digital Services,  Inc.",1.99,197
+Marie Lu,4.29,5377,genre fiction,"Amazon Digital Services,  Inc.",2.99,198
+William Shakespeare,4,5367,genre fiction,"Amazon Digital Services,  Inc.",3.99,199
+Arthur Miller,4,5357,genre fiction,Penguin Group (USA) LLC,10.91,201
+Nicholas Sparks,4,5366,genre fiction,"Amazon Digital Services,  Inc.",2.99,202
+Kate Egan,4,5360,genre fiction,HarperCollins Publishers,6.01,205
+William Faulkner,3.86,5358,genre fiction,Hachette Book Group,4.99,206
+Eckhart Tolle,3.99,5347,genre fiction,"Amazon Digital Services,  Inc.",0.99,207
+Tite Kubo,3.99,5330,fiction,Penguin Group (USA) LLC,5.34,207
+Allie Brosh,3333333,5329,genre fiction,Penguin Group (USA) LLC,10.91,210
+Robert Jordan,4.21,5325,nonfiction,HarperCollins Publishing,4.26,210
+Gregory David Roberts,4.26,5324,genre fiction,"Amazon Digital Services,  Inc.",0.99,211
+Charlaine Harris,4.01,5320,genre fiction,"Amazon Digital Services,  Inc.",0.99,212
+"Stephen King, Ned Dameron",4.24,5310,genre fiction,"Amazon Digital Services,  Inc.",2.99,213
+Jeffery Deaver,4.18,5300,genre fiction,Random House LLC,10.99,213
+"Bernhard Schlink, Carol Brown Janeway",3.73,5299,genre fiction,"Amazon Digital Services,  Inc.",2.99,214
+"Bill Martin Jr., Eric Carle",4.19,5289,genre fiction,Hachette Book Group,4.99,214
+Dan Simmons,4.21,5288,genre fiction,"Amazon Digital Services,  Inc.",0.99,215
+John Steinbeck,3.41,5270,genre fiction,"Amazon Digital Services,  Inc.",0.99,215
+William Peter Blatty,4.14,5268,genre fiction,"Amazon Digital Services,  Inc.",2.99,219
+Stephenie Meyer,3.51,5266,genre fiction,"Amazon Digital Services,  Inc.",0.99,220
+David Guterson,3.8,5262,genre fiction,"Amazon Digital Services,  Inc.",2.99,220
+Alex Haley,4.42,5260,genre fiction,Macmillan,0.99,221
+"Alan Moore, Brian Bolland, Tim Sale",4.36,5255,genre fiction,Random House LLC,0.99,224
+Ralph Ellison,3.84,5250,genre fiction,"Amazon Digital Services,  Inc.",0.99,224
+Ishmael Beah,4.14,5245,genre fiction,"Amazon Digital Services,  Inc.",7.99,226
+Robert C. O'Brien,4.13,5242,genre fiction,"Amazon Digital Services,  Inc.",3.99,227
+Stephen King,4.34,5240,genre fiction,Simon and Schuster Digital Sales Inc,10.99,227
+"Laura Ingalls Wilder, Garth Williams",4.33,5230,genre fiction,Random House LLC,11.47,228
+Melissa Bank,4,5227,nonfiction,"Amazon Digital Services,  Inc.",0.99,228
+Hugh Howey,4.24,5220,genre fiction,Penguin Group (USA) LLC,4.99,229
+Christopher Moore,4.26,5216,genre fiction,Random House LLC,10.65,230
+Eckhart Tolle,4.1,5214,genre fiction,Penguin Group (USA) LLC,10.65,231
+Jenny  Lawson,4,5210,genre fiction,"Amazon Digital Services,  Inc.",0.99,231
+Scott Lynch,4.3,5208,genre fiction,Simon and Schuster Digital Sales Inc,2.99,234
+Garth Nix,4.17,5205,genre fiction,Random House LLC,19.98,235
+Charlaine Harris,4.01,5204,genre fiction,Random House LLC,4.99,238
+Jodi Picoult,4.26,5203,genre fiction,"Amazon Digital Services,  Inc.",0.99,239
+Jennifer L. Armentrout,4.23,5203,genre fiction,Penguin Group (USA) LLC,11.99,240
+Douglas Adams,4.19,5201,genre fiction,Hachette Book Group,5.99,240
+Sarah J. Maas,4.49,5200,genre fiction,"Amazon Digital Services,  Inc.",0.99,241
+Bryan Lee O'Malley,4.18,5199,genre fiction,Random House LLC,0.99,242
+Jeannette Walls,4.05,5100,genre fiction,Penguin Group (USA) LLC,11.99,244
+Terry Pratchett,4.22,5099,genre fiction,"Amazon Digital Services,  Inc.",8.97,244
+Julie Kagawa,3.92,5093,genre fiction,Macmillan,0.99,245
+Larry McMurtry,4.47,5091,genre fiction,"Amazon Digital Services,  Inc.",3.99,246
+Mary Roach,4.05,5080,nonfiction,Random House LLC,10.65,248
+Richelle Mead,4.22,5077,genre fiction,Macmillan,0.99,249
+Orson Scott Card,4.3,5071,nonfiction,"Amazon Digital Services,  Inc.",0.99,250
+Sophie Kinsella,3.82,5068,genre fiction,Random House LLC,4.99,251
+Thomas Keneally,4.34,5066,genre fiction,"Amazon Digital Services,  Inc.",6.19,254
+Toni Morrison,4.3,5062,genre fiction,"Amazon Digital Services,  Inc.",2.99,255
+Philippa Gregory,3.9,5061,genre fiction,"Amazon Digital Services,  Inc.",4.13,255
+"Malcolm X, Alex Haley",4.29,5055,nonfiction,Random House LLC,4.99,256
+"Neil Gaiman, Sam Kieth, Mike Dringenberg, Malcolm Jones III, Todd Klein, Karen  Berger",4.3,5051,nonfiction,"Amazon Digital Services,  Inc.",5.56,257
+Laura Hillenbrand,4.3,5050,genre fiction,HarperCollins Publishers,2.5,258
+Dennis Lehane,4.07,5044,genre fiction,Penguin Group (USA) LLC,10.65,259
+Arthur Conan Doyle,4.5,4999,genre fiction,Penguin Group (USA) LLC,7.99,261
+"William Shakespeare, Roma Gill",4.1,4987,genre fiction,"Amazon Digital Services,  Inc.",0.99,262
+Erik Larson,3.81,4920,genre fiction,"Amazon Digital Services,  Inc.",0.99,262
+"Plato, Desmond Lee",3.9,4900,genre fiction,"Amazon Digital Services,  Inc.",0.99,265
+William Shakespeare,3.81,4845,nonfiction,Hachette Book Group,6.99,266
+Marissa Meyer,4.46,4843,nonfiction,Macmillan,2.99,268
+Patti Smith,4.14,4840,genre fiction,Random House LLC,1.99,269
+Phaidon Press,3.79,4776,genre fiction,Penguin Group (USA) LLC,7.99,270
+Jane Green,3.62,4700,genre fiction,"Amazon Digital Services,  Inc.",1.99,271
+"Victor Hugo, Walter J. Cobb",3.97,4689,nonfiction,"Amazon Digital Services,  Inc.",7.91,271
+Rohinton Mistry,4.34,4640,genre fiction,Simon and Schuster Digital Sales Inc,2.99,272
+"Bill Watterson, G.B. Trudeau",4.61,4633,nonfiction,Penguin Group (USA) LLC,4.99,273
+Scott Westerfeld,3.77,4589,genre fiction,"Amazon Digital Services,  Inc.",2.99,274
+Kate Chopin,3.63,4490,genre fiction,"Amazon Digital Services,  Inc.",0.99,275
+"P.C. Cast, Kristin Cast",3.93,4480,genre fiction,Random House LLC,4.99,275
+Mitch Albom,4.09,4450,genre fiction,"Amazon Digital Services,  Inc.",3.99,276
+Tom Clancy,4.08,4430,genre fiction,Hachette Book Group,2.99,276
+Shel Silverstein,4.33,4300,genre fiction,"Amazon Digital Services,  Inc.",0.99,278
+Justin Halpern,3.98,4387,nonfiction,Hachette Book Group,7.5,278
+"Irvine Welsh, Eric Lindor Fall",4.07,4289,genre fiction,Random House LLC,2.99,279
+Isaac Asimov,4.2,4266,genre fiction,"Amazon Digital Services,  Inc.",2.99,280
+Miguel Ruiz,4.12,4256,genre fiction,Penguin Group (USA) LLC,11.99,280
+Jodi Picoult,4.01,4233,nonfiction,HarperCollins Publishers,11.19,281
+"Jacob Grimm, Wilhelm Grimm, Josef Scharl, Padraic Colum, Joseph Campbell, Margaret Raine Hunt, James Stern",4.31,4226,genre fiction,"Amazon Digital Services,  Inc.",4.99,282
+E.L. Konigsburg,4.15,4220,genre fiction,"Amazon Digital Services,  Inc.",2.99,282
+Stephen King,4.1,4219,genre fiction,"Amazon Digital Services,  Inc.",0.99,283
+Nick Hornby,3.79,4214,genre fiction,Penguin Group (USA) LLC,2.99,283
+Samantha Young,4.24,4210,nonfiction,Random House LLC,10.91,285
+"Francis Chan, Danae Yankoski, Chris Tomlin",4.15,4209,genre fiction,Macmillan,2.99,286
+Dr. Seuss,4.12,4189,nonfiction,Simon and Schuster Digital Sales Inc,1.99,287
+Dean Koontz,4.16,4145,genre fiction,"Amazon Digital Services,  Inc.",2.99,289
+Helen Keller,4.07,4120,nonfiction,"Amazon Digital Services,  Inc.",0.99,289
+Jonathan Tropper,3.88,4115,genre fiction,"Amazon Digital Services,  Inc.",0.99,290
+Seth Grahame-Smith,3.7,4110,genre fiction,"Amazon Digital Services,  Inc.",0.99,291
+"Natsuki Takaya, Alethea Nibley, Athena Nibley",4.23,4104,nonfiction,Simon and Schuster Digital Sales Inc,2.99,293
+William Shakespeare,3.8,4099,genre fiction,"Amazon Digital Services,  Inc.",2.99,294
+"P.C. Cast, Kristin Cast",3.98,4080,genre fiction,"Amazon Digital Services,  Inc.",2.99,295
+"Stephen King, Dave McKean",4.24,4070,fiction,Simon and Schuster Digital Sales Inc,2.99,295
+Dave Eggers,3.46,4078,genre fiction,Penguin Group (USA) LLC,11.39,296
+Brian Selznick,4.23,4072,genre fiction,"Amazon Digital Services,  Inc.",4.99,297
+"Aldous Huxley, Christopher Hitchens",4.16,4068,genre fiction,"Amazon Digital Services,  Inc.",4.99,298
+Bisco Hatori,4.36,4060,genre fiction,HarperCollins Publishers,1.99,299
+Mary Kubica,3.81,4055,genre fiction,Random House LLC,7.99,303
+Abbi Glines,4.21,4040,genre fiction,Penguin Group (USA) LLC,8.82,304
+Rainbow Rowell,3.55,4039,genre fiction,"Amazon Digital Services,  Inc.",3.99,304
+"P.C. Cast, Kristin Cast",3.96,4030,fiction,HarperCollins Publishers,8.49,305
+Cormac McCarthy,4.12,4020,genre fiction,Simon and Schuster Digital Sales Inc,4.99,306
+Hilary Mantel,3.85,4015,genre fiction,Penguin Group (USA) LLC,7.69,307
+Diana Wynne Jones,4.3,4012,genre fiction,"Amazon Digital Services,  Inc.",2.99,309
+"Stephen King, William Olivier Desmond",3.59,4008,genre fiction,"Amazon Digital Services,  Inc.",4.99,310
+Henry David Thoreau,3.79,4000,nonfiction,Random House LLC,6.49,311
+Kazuo Ishiguro,4.1,3999,nonfiction,Random House LLC,5.99,312
+Nicholas Sparks,3.91,3899,genre fiction,"Amazon Digital Services,  Inc.",0.99,313
+Julian Barnes,3.7,3799,genre fiction,"Amazon Digital Services,  Inc.",0.99,314
+Sue Grafton,3.82,3699,genre fiction,"Amazon Digital Services,  Inc.",1.99,314
+"Sophocles, J.E. Thomas",3.67,3600,genre fiction,Hachette Book Group,7.99,315
+Lisa See,3.87,3589,nonfiction,Penguin Group (USA) LLC,6.99,315
+"Kenneth Grahame, Gillian Avery",3.98,3577,genre fiction,Penguin Group (USA) LLC,33.86,317
+Jenny Han,4.11,3560,nonfiction,"Amazon Digital Services,  Inc.",1.99,319
+"Marjane Satrapi, Mattias Ripa",4.23,3539,genre fiction,Random House LLC,4.99,321
+E.M. Forster,3.91,3529,genre fiction,"Amazon Digital Services,  Inc.",2.99,321
+Kody Keplinger,3.86,3489,genre fiction,"Amazon Digital Services,  Inc.",3.99,322
+Sarah Dessen,4.01,3478,nonfiction,"Amazon Digital Services,  Inc.",2.99,322
+J.D. Robb,4.13,3467,genre fiction,HarperCollins Publishers,6.01,323
+John Grisham,3.76,3456,genre fiction,"Amazon Digital Services,  Inc.",0.99,323
+Stephenie Meyer,4.03,3422,genre fiction,"Amazon Digital Services,  Inc.",0.99,324
+"Masashi Kishimoto, Katy Bridges",4.35,3420,nonfiction,HarperCollins Christian Publishing,0.99,325
+Rachel Joyce,3.89,3410,genre fiction,Hachette Book Group,12.74,326
+David Levithan,3.99,3409,genre fiction,"Amazon Digital Services,  Inc.",3.99,327
+Orson Scott Card,3.77,3405,genre fiction,Simon and Schuster Digital Sales Inc,5.99,329
+"William Shakespeare, Robert          Jackson, Barbara A. Mowat, Paul Werstine",3.78,3402,genre fiction,"Amazon Digital Services,  Inc.",1.5,329
+James Clavell,4.37,3401,genre fiction,Hachette Book Group,7.32,330
+J.R. Ward,4.45,3378,genre fiction,Simon and Schuster Digital Sales Inc,4.99,330
+Sarah J. Maas,4.29,3356,nonfiction,"Amazon Digital Services,  Inc.",12.99,331
+E.L. James,4.13,3342,genre fiction,"Amazon Digital Services,  Inc.",4.99,333
+"Bill Martin Jr., John Archambault, Lois Ehlert",4.21,3345,fiction,Simon and Schuster Digital Sales Inc,3.99,335
+Raina Telgemeier,4.19,3367,genre fiction,HarperCollins Publishers,9.59,336
+Margaret Atwood,3.95,2859,nonfiction,HarperCollins Christian Publishing,7.99,378
+Ransom Riggs,4.07,2846,genre fiction,Penguin Group (USA) LLC,6.99,380
+Andre Dubus III,3.83,2765,genre fiction,"Amazon Digital Services,  Inc.",3.99,381
+M.R. Carey,3.93,2788,genre fiction,Simon and Schuster Digital Sales Inc,1.99,383
+William Faulkner,3.72,2698,nonfiction,HarperCollins Publishers,1.99,385
+Crockett Johnson,4.24,2698,genre fiction,"Amazon Digital Services,  Inc.",3.99,385
+J.R. Ward,4.35,2654,nonfiction,Random House LLC,10.65,387
+Isaac Asimov,4.23,2613,nonfiction,HarperCollins Publishers,2.99,388
+Jim Butcher,4.04,2610,genre fiction,Macmillan,2.99,389
+Malcolm Gladwell,3.9,2598,nonfiction,Random House LLC,10.91,389
+"Hiromu Arakawa, Akira Watanabe",4.49,2513,genre fiction,"Amazon Digital Services,  Inc.",0.99,391
+Terry Pratchett,4.32,6183,genre fiction,"Amazon Digital Services,  Inc.",4.99,392
+Joan Didion,3.86,6156,genre fiction,"Amazon Digital Services,  Inc.",3.99,393
+Lionel Shriver,4.07,6156,genre fiction,HarperCollins Publishers,25.89,393
+Arthur C. Clarke,4.06,6129,genre fiction,"Amazon Digital Services,  Inc.",6.47,395
+Anne Rice,3.86,6102,genre fiction,"Amazon Digital Services,  Inc.",0.99,397
+"Edith Wharton, Maureen Howard",2,6102,genre fiction,"Amazon Digital Services,  Inc.",5.26,398
+Richard Dawkins,222222,6075,genre fiction,"Amazon Digital Services,  Inc.",3.99,400
+Geraldine Brooks,4,6048,genre fiction,"Amazon Digital Services,  Inc.",0.99,401
+Michael Connelly,4.08,6048,nonfiction,"Amazon Digital Services,  Inc.",5.69,401
+Ayn Rand,3.62,150,genre fiction,"Amazon Digital Services,  Inc.",4.99,403
+Sylvain Reynard,4.02,6021,genre fiction,Penguin Group (USA) LLC,7.99,404
+"Judi Barrett, Ron Barrett",4.15,5994,genre fiction,Penguin Group (USA) LLC,7.49,406
+Helen Simonson,3.87,5967,genre fiction,Simon and Schuster Digital Sales Inc,2.99,408
+Nora Roberts,4.1,5940,genre fiction,Random House LLC,1.99,409
+Jodi Picoult,3.48,5940,genre fiction,"Amazon Digital Services,  Inc.",17.98,409
+Rick Riordan,4.2,5913,nonfiction,"Amazon Digital Services,  Inc.",9.44,411
+John Scalzi,4.23,5913,genre fiction,Macmillan,5.99,412
+Stephen King,3.47,5886,fiction,"Amazon Digital Services,  Inc.",1.99,413
+Janet Evanovich,4.11,2400,nonfiction,"Amazon Digital Services,  Inc.",9.99,414
+"Irma S. Rombauer, Marion Rombauer Becker, Ethan Becker",4.14,2400,fiction,Hachette Book Group,8.59,415
+Joe Haldeman,4.15,2400,genre fiction,"Amazon Digital Services,  Inc.",0.99,416
+Jessica Knoll,3.48,2200,genre fiction,Simon and Schuster Digital Sales Inc,9.56,430
+Ellen Hopkins,4.16,2200,genre fiction,"Amazon Digital Services,  Inc.",3.99,431
+Maggie Stiefvater,4.05,2200,nonfiction,"Amazon Digital Services,  Inc.",0.99,432
+Richard Matheson,3.99,2200,genre fiction,"Amazon Digital Services,  Inc.",2.99,433
+Elizabeth Strout,3.78,2100,genre fiction,"Amazon Digital Services,  Inc.",0.99,433
+"Lena Dunham, Joana Avillez",3.33,2100,nonfiction,Random House LLC,5.99,434
+James C. Collins,4.04,2000,genre fiction,"Amazon Digital Services,  Inc.",4.99,436
+Kristin Cashore,4.12,2100,genre fiction,Penguin Group (USA) LLC,11.99,439
+Samuel Beckett,3.81,2100,genre fiction,Penguin Group (USA) LLC,7.99,444
+Jack London,3.94,2000,genre fiction,Random House LLC,8.39,444
+"Stephen King, Bernie Wrightson",4.17,2000,genre fiction,"Amazon Digital Services,  Inc.",2.99,445
+Philip Pullman,4.25,2000,genre fiction,"Amazon Digital Services,  Inc.",2.99,445
+J.A. Redmerski,4.26,2000,genre fiction,Simon and Schuster Digital Sales Inc,2.99,447
+Kimberly McCreight,3.82,1900,nonfiction,"Amazon Digital Services,  Inc.",0.99,447
+Jojo Moyes,3.94,1900,genre fiction,Hachette Book Group,1.99,448
+Michael Cunningham,3.91,1900,genre fiction,HarperCollins Publishers,2.5,449
+Alice Clayton,4.1,1900,nonfiction,"Amazon Digital Services,  Inc.",9.49,450
+David Sedaris,3.95,1900,genre fiction,"Amazon Digital Services,  Inc.",2.99,452
+Stephen King,3.8,1900,genre fiction,"Amazon Digital Services,  Inc.",0.99,453
+Lauren Kate,3.89,1900,genre fiction,"Amazon Digital Services,  Inc.",3.99,454
+James Dashner,3.69,1900,genre fiction,Random House LLC,5.38,455
+Susan Ee,3,1900,genre fiction,"Amazon Digital Services,  Inc.",0.99,457
+Richard Russo,3.91,1900,genre fiction,"Amazon Digital Services,  Inc.",2.99,458
+Robert Jordan,3,1900,children,Random House LLC,7.59,459
+Jandy Nelson,3,1800,genre fiction,Simon and Schuster Digital Sales Inc,2.99,460
+Chuck Palahniuk,3.93,1800,genre fiction,HarperCollins Publishers,0.99,462
+Sophie Kinsella,3.77,1800,genre fiction,"Amazon Digital Services,  Inc.",0.99,463
+Stephen King,3,1800,genre fiction,"Amazon Digital Services,  Inc.",3.99,463
+Catherine Hardwicke,4.2,1800,genre fiction,HarperCollins Publishers,8.99,465
+Sophie Kinsella,3.75,1800,genre fiction,Penguin Group (USA) LLC,7.69,468
+Richard Feynman,3,1800,genre fiction,"Amazon Digital Services,  Inc.",4.99,470
+Maggie Stiefvater,3.91,1800,genre fiction,"Amazon Digital Services,  Inc.",1.99,471
+L.M. Montgomery,3,1800,genre fiction,Random House LLC,7.99,472
+"James Joyce, Seamus Deane",3.6,1800,fiction,Random House LLC,2.99,472
+"Robert Jordan, Brandon Sanderson",3,1700,genre fiction,"Amazon Digital Services,  Inc.",3.99,473
+"George Eliot, Michel Faber",3.93,1700,nonfiction,"Amazon Digital Services,  Inc.",0.99,474
+Colleen Hoover,3,1700,genre fiction,"Amazon Digital Services,  Inc.",0.99,475
+John Grisham,3,1700,genre fiction,"Amazon Digital Services,  Inc.",3.99,476
+J.R.R. Tolkien,3.65,1700,genre fiction,"Amazon Digital Services,  Inc.",0.99,477
+S.C. Stephens,3,1700,genre fiction,Penguin Group (USA) LLC,5.99,478
+Scott Turow,3,1689,genre fiction,"Amazon Digital Services,  Inc.",2.99,479
+Stephen King,3.74,1677,genre fiction,Macmillan,2.99,482
+Stacy Schiff,3.62,1666,genre fiction,"Amazon Digital Services,  Inc.",0.99,483
+Thomas L. Friedman,3.66,1660,genre fiction,Hachette Book Group,2.99,485
+Brandon Sanderson,3,1659,genre fiction,Penguin Group (USA) LLC,6.83,486
+"Marcus Pfister, J. Alison James",3,1656,genre fiction,"Amazon Digital Services,  Inc.",4.99,488
+Jules Verne,3.84,1643,nonfiction,Macmillan,9.59,489
+Gretchen Rubin,3.57,1623,genre fiction,"Amazon Digital Services,  Inc.",0.99,491
+Philip K. Dick,3.66,1600,genre fiction,Hachette Book Group,12.74,492
+"Vincent Bugliosi, Curt Gentry",3,1599,genre fiction,"Amazon Digital Services,  Inc.",0.99,493
+"Robert Kapilow, Dr. Seuss",11111111,1587,nonfiction,Hachette Book Group,2.99,493
+"Dante Alighieri, Anthony M. Esolen",3,1567,fiction,Hachette Book Group,1.99,493
+Deborah Harkness,3,2300,genre fiction,"Amazon Digital Services,  Inc.",6.98,494
+Jodi Picoult,2.7,1567,fiction,"Amazon Digital Services,  Inc.",0.99,495
+Patricia Briggs,2.74,1550,genre fiction,"Amazon Digital Services,  Inc.",1.99,497
+Melissa de la Cruz,2.89,1544,genre fiction,"Amazon Digital Services,  Inc.",3.99,497
+Caleb Carr,2.8,1511,genre fiction,HarperCollins Publishers,6.99,498
+Ta-Nehisi Coates,2.99,1508,genre fiction,"Amazon Digital Services,  Inc.",2.99,499
+"John Milton, John      Leonard",2.34,1500,genre fiction,"Amazon Digital Services,  Inc.",4.99,502
+Michael   Lewis,2.53,1490,fiction,Simon and Schuster Digital Sales Inc,6.99,502
+Stephen King,2.54,1487,nonfiction,"Amazon Digital Services,  Inc.",7.74,503
+"Patrick Ness, Jim Kay, Siobhan Dowd",2.91,1477,genre fiction,Random House LLC,10.65,505
+"Robert Jordan, Brandon Sanderson",2.76,1467,fiction,"Amazon Digital Services,  Inc.",1.99,505
+Frederick Forsyth,2.98,1450,genre fiction,"Amazon Digital Services,  Inc.",0.99,508
+"Jason Fried, David Heinemeier Hansson",2,1444,genre fiction,Simon and Schuster Digital Sales Inc,2.99,509
+Rainbow Rowell,2.67,1436,genre fiction,"Amazon Digital Services,  Inc.",0.99,511
+"Stephenie Meyer, Ilyana Kadushin, Matt Walters",2.93,1420,genre fiction,Penguin Group (USA) LLC,9.49,513
+Carol Rifka Brunt,2.34,1411,genre fiction,"Amazon Digital Services,  Inc.",1.99,514
+James Herriot,2.95,1389,genre fiction,"Amazon Digital Services,  Inc.",5.99,514
+Michelle Hodkin,2.96,1367,fiction,Macmillan,10.99,516
+Janet Evanovich,2.89,1300,genre fiction,Hachette Book Group,6.49,517
+Emmuska Orczy,2.92,1300,fiction,Hachette Book Group,3.79,517
+"Jon Stone, Michael J. Smollin",2.92,1300,genre fiction,"Amazon Digital Services,  Inc.",1.99,518
+Judy Blume,2.56,1300,genre fiction,Penguin Group (USA) LLC,2.99,519
+Leigh Bardugo,2.73,1267,fiction,"Amazon Digital Services,  Inc.",3.99,519
+"Herman Koch, Sam Garrett",2.8,1200,genre fiction,"Amazon Digital Services,  Inc.",4.99,520
+Marie Lu,2.7,1240,nonfiction,Simon and Schuster Digital Sales Inc,9.99,523
+Carl Sagan,2.5,1200,genre fiction,Random House LLC,7.99,524
+Stephanie Perkins,2.3,1230,genre fiction,"Amazon Digital Services,  Inc.",3.99,524
+Zadie Smith,1,1243,fiction,"Amazon Digital Services,  Inc.",0.99,524
+"Chris Kyle, Scott McEwen, Jim DeFelice",1,1234,genre fiction,Macmillan,12.74,525
+Chelsea Handler,1.4,1200,nonfiction,Simon and Schuster Digital Sales Inc,7.66,526
+Pittacus Lore,1.34,1178,fiction,Macmillan,10.91,526
+Meg Wolitzer,1.45,1150,genre fiction,HarperCollins Publishers,7.99,528
+Bill Watterson,1.89,1145,genre fiction,"Amazon Digital Services,  Inc.",0.99,530
+Geraldine Brooks,1.5,1137,genre fiction,Penguin Group (USA) LLC,7.69,531
+Kate Morton,1.5,1130,genre fiction,HarperCollins Publishers,1.99,532
+Better Homes and Gardens,1.7,1118,nonfiction,"Amazon Digital Services,  Inc.",0.99,534
+Douglas Adams,1.4,1111,genre fiction,HarperCollins Publishers,11.89,535
+"Hermann Hesse, Basil Creighton",1.4,1110,fiction,"Amazon Digital Services,  Inc.",4.99,535
+Tess Gerritsen,1.4,1109,nonfiction,Random House LLC,10.99,536
+Jojo Moyes,1.4,1109,genre fiction,Random House LLC,6.94,537
+Robin Hobb,1.3,1100,fiction,"Amazon Digital Services,  Inc.",0.99,538
+Arthur C. Clarke,1.2,1100,genre fiction,"Amazon Digital Services,  Inc.",7.39,539
+"Kate DiCamillo, Timothy Basil Ering",1.1,764,genre fiction,Penguin Group (USA) LLC,6.99,541
+"Barbara Kingsolver, Steven L. Hopp, Camille Kingsolver, Richard A. Houser",0.9,534,genre fiction,"Amazon Digital Services,  Inc.",4.99,542
+Sarah J. Maas,0.8,765,genre fiction,Hachette Book Group,0.99,543
+Robert Jordan,0.7,145,fiction,Hachette Book Group,4.99,544
+Alan Bradley,0.7,157,genre fiction,Penguin Group (USA) LLC,10.65,545
+Donald Miller,0.5,200,genre fiction,"Amazon Digital Services,  Inc.",0.99,546
+Diana Gabaldon,0.2,200,nonfiction,Penguin Group (USA) LLC,5.163791209,547
+Rick Riordan,0.1,29,genre fiction,"Amazon Digital Services,  Inc.",5.165585629,549
+Liane Moriarty,0,23,genre fiction,"Amazon Digital Services,  Inc.",5.167380049,549
+"Brian K. Vaughan, Fiona Staples",0,30,genre fiction,"Amazon Digital Services,  Inc.",5.169174469,550
